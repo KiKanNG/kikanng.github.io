@@ -2,122 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h2 style="text-align: center; margin-bottom: 8px;">Project 1 - Designing Interactive Ad for Sustainability</h2>
+<h5 style="text-align: center; margin-top: 0em;">September 24, 2019</h5>
+I am a Year 4 student major in Computer Science at **HKUST**. Coming to realise this is my last semester here, I couldn't help but to think what I can do to get the best out of it. And this is the reason why I choose COMP4461, Human-Computer Interaction, as it is one of the few courses that genuinely sounds interesting.
 
-[Link to another page](./another-page.html).
+I would love to share a video ([Do What You Can't](https://www.youtube.com/watch?v=jG7dSXcfVqE)) from my favourite YouTuber *Casey Neistat*, which has strongly influenced how I view challenges. The gist of the video is that you have to constantly push yourself out of your comfort zone, and to realise there is a lot more to explore.
 
-There should be whitespace between paragraphs.
+<p style="text-align: right;"><a href="./project-1.html"><small>continue...</small></a></p>
+------
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<h2 style="text-align: center; margin-bottom: 8px;">About Me</h2>
+<h5 style="text-align: center; margin-top: 0em;">September 20, 2019</h5>
+I am a Year 4 student major in Computer Science at **HKUST**. Coming to realise this is my last semester here, I couldn't help but to think what I can do to get the best out of it. And this is the reason why I choose COMP4461, Human-Computer Interaction, as it is one of the few courses that genuinely sounds interesting.
 
-# Header 1
+I would love to share a video ([Do What You Can't](https://www.youtube.com/watch?v=jG7dSXcfVqE)) from my favourite YouTuber *Casey Neistat*, which has strongly influenced how I view challenges. The gist of the video is that you have to constantly push yourself out of your comfort zone, and to realise there is a lot more to explore.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<p style="text-align: right;"><a href="./about-me.html"><small>continue...</small></a></p>
