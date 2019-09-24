@@ -4,13 +4,13 @@ layout: default
 
 <h2 style="text-align: center; margin-bottom: 8px;">Project 1 - Designing Interactive Ad for Sustainability</h2>
 <h5 style="text-align: center; margin-top: 0em;">September 24, 2019</h5>
-### Project Background
+### Background
 
 We observed that there is little to none reduce paper usage campaigns on campus, and the few that are related are unidirectional and dull. This comes as a surprise to us because we thought this would be an obvious place to start a sustainability campaign, especially since trees have an important role in nature's carbon cycle, hence the amount of trees is directly impacting our fight to save our planet. Therefore, we decided we would be the ones who start a tree-saving campaign.
 
 
 
-### Project Goal
+### Goal
 
 Our goal is to encourage all students to reduce unnecessary printing. To achieve that, we listed out four criteria, which are user-friendly, educational, impactful and feasible.
 
