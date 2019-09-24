@@ -12,7 +12,7 @@ We observed that there is little to none reduce paper usage campaigns on campus,
 
 ### Project Goal
 
-Our goal is to encourage all students to reduce unnecessary printing. To archive that, we listed out four criteria, which are user-friendly, educational, impactful and feasible.
+Our goal is to encourage all students to reduce unnecessary printing. To achieve that, we listed out four criteria, which are user-friendly, educational, impactful and feasible.
 
 <p style="text-align: right;"><a href="./project-1.html"><small>Continue reading...</small></a></p>
 ------
