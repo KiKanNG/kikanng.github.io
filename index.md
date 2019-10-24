@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<h2 style="text-align: center; margin-bottom: 8px;">Project 2 - Augmenting Paper as an Information Carrier</h2>
+<h5 style="text-align: center; margin-top: 0em;">October 24, 2019</h5>
+### Background
+
+We identified that textbooks have been the essential knowledge carrier throughout our history. It has educated and inspired generations and generations of students. However, the nature of a book has been more or less the same from the time it was invented. By combining with AR technology, textbooks can become more interactive and immersive, which brings more joy and exciting experience to kids.
+
+
+
+### Process
+
+#### Mindmap
+
+We have two major ideas on implementing AR in paper products. The idea we chose are aiding kids (especially the ones with special education need) to learn. 
+
+<p style="text-align: right;"><a href="./project-2.html"><small>Continue reading...</small></a></p>
+------
+
 <h2 style="text-align: center; margin-bottom: 8px;">Project 1 - Designing Interactive Ad for Sustainability</h2>
 <h5 style="text-align: center; margin-top: 0em;">September 24, 2019</h5>
 ### Background
