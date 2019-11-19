@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<h2 style="text-align: center; margin-bottom: 8px;">Project 3 - Human-Robot Interaction</h2>
+<h5 style="text-align: center; margin-top: 0em;">November 19, 2019</h5>
+### Background
+
+We observed that people are not that into robots behaving very human-like as they found that creepy. However, they found it enjoyable to interact with a simple but useful robot. This counter-intuitive reaction could be explained by we like to treat robots as pets, since dumb robot does not threaten human beings.
+
+
+
+### Process
+
+#### Mindmap
+
+We have come up with a few ideas on robot in education field. I proposed that we can teach autism kid communication skills by having the robot to interact with them. Some other great ideas are robot that leading warm-up exercise for kids, and robot that cheer you up when you are under stress. We finally picked the last idea, as we all can use a good laugh in this time.
+
+<p style="text-align: right;"><a href="./project-3.html"><small>Continue reading...</small></a></p>
+------
+
 <h2 style="text-align: center; margin-bottom: 8px;">Project 2 - Augmenting Paper as an Information Carrier</h2>
 <h5 style="text-align: center; margin-top: 0em;">October 24, 2019</h5>
 ### Background
